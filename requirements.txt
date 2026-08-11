@@ -1,7 +1,0 @@
-# Pinned to widely-available, stable versions. Any recent release in these
-# minor lines reproduces the pipeline; scikit-learn >= 1.2 is required for
-# HistGradientBoostingClassifier(class_weight=...).
-numpy>=1.24
-pandas>=1.5
-scikit-learn>=1.2
-matplotlib>=3.6
