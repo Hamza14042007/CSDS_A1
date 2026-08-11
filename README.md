@@ -1,9 +1,7 @@
-# Case Study Data Science A1 | Vanguard Job Role | FINRA & SEC Data
+# Case Study Data Science A1 | Vanguard Job Role | FINRA & SEC Data.
 
-Reproducible code for **Case Studies in Data Science (Individual Task 1)**.
-
-This project supports the data-science case study written around Vanguard
-Australia's *Data Scientist, Specialist* role. It asks a single, practical
+This repo is for my data science case study assignment written around Vanguard
+Australia's Data Scientist, Specialist role. It asks a single, practical
 question:
 
 > At the end of a FINRA trading day, can we rank which securities are likely to
