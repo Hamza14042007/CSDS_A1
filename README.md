@@ -1,4 +1,4 @@
-# Case Study Data Science, Vanguard Job Role — FINRA & SEC Data
+# Case Study Data Science A1 | Vanguard Job Role | FINRA & SEC Data
 
 Reproducible code for **Case Studies in Data Science (Individual Task 1)**.
 
