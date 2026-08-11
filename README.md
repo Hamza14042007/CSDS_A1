@@ -1,4 +1,4 @@
-# Next-Day Short-Sale Monitoring — FINRA + SEC
+# Case Study Data Science, Vanguard Job Role — FINRA & SEC Data
 
 Reproducible code for **Case Studies in Data Science (Individual Task 1)**.
 
